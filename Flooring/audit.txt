@@ -1,0 +1,5 @@
+2020-03-02T10:47:10.015061 : Josephs purchased Wood
+2020-03-02T11:29:54.606017 : Joe purchased Tile
+2020-03-02T11:50:10.702524 : Joe purchased Wood
+2020-03-02T11:52:06.743826 : Tom purchased Wood
+2020-03-02T14:55:51.400713 : John purchased Wood

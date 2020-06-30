@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: pjm.vendingmachine.service.VendingMachineServiceLayerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 13, Skipped: 0, Time elapsed: 0.022 s <<< FAILURE! - in pjm.vendingmachine.service.VendingMachineServiceLayerTest
+testGetSodaById  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testGetSodas  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testSetMessage  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testGetSelection  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testAddMoney  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testMakePurchase  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testGetBalance  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testSetMyChange  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testGetMyChange  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testSetSelection  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testChangeReturn  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testGetMessage  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+
+testSetBalance  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at pjm.vendingmachine.service.VendingMachineServiceLayerTest.<init>(VendingMachineServiceLayerTest.java:30)
+

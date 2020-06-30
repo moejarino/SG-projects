@@ -1,0 +1,5 @@
+2020-02-18T10:09:00.588597 : Soda Sprite purchased.
+2020-02-18T13:51:58.615067 : Soda Sprite purchased.
+2020-02-18T14:21:34.545763 : Soda Coke purchased.
+2020-02-19T11:21:40.236446 : Soda Sprite purchased.
+2020-02-19T14:28:47.047181 : Soda Pepsi purchased.
